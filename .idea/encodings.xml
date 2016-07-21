@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/dao/BaseDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/dao/UserDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/dao/impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/dao/impl/UserDAO.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/entity/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/facilityone/service/impl/UserServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/plugins/ueditor" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/plugins/ueditor/lang/zh-cn/zh-cn.js" charset="UTF-8" />
+  </component>
+</project>
